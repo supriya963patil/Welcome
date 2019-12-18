@@ -41,3 +41,4 @@ public class Productcon {
 	}
 
 }
+//adding new mwthod
